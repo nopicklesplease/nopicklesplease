@@ -25,7 +25,7 @@ I'm a software engineer in the New York City area that's been developing web app
 <p display='inline'>
   <img src='https://img.shields.io/badge/Bitcoin Education-grey?style=for-the-badge&logo=bitcoin' />
   <img src='https://img.shields.io/badge/Music & Podcast Production (Logic Pro X)-black?style=for-the-badge&logo=apple' />
-  <img src='https://img.shields.io/badge/Photography & Photo Editing-cecece?style=for-the-badge&logo=adobephotoshop' />
+  <img src='https://img.shields.io/badge/Photography & Photo Editing-e3e3e3?style=for-the-badge&logo=adobephotoshop' />
 </p>
 
 <!--
