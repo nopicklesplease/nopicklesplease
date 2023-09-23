@@ -22,11 +22,11 @@ I'm a software engineer in the New York City area that's been developing web app
 
 ## Additional Skills & Interests
 
-* Bitcoin Education
-* Audio Engineering
-* Music & Podcast Production (Logic Pro X)
-* Photography
-* Photo Editing (Photoshop)
+<p display='inline'>
+  <img src='https://img.shields.io/badge/Bitcoin Education-grey?style=for-the-badge&logo=bitcoin' />
+  <img src='https://img.shields.io/badge/Music & Podcast Production (Logic Pro X)-black?style=for-the-badge&logo=apple' />
+  <img src='https://img.shields.io/badge/Photography & Photo Editing-cecece?style=for-the-badge&logo=adobephotoshop' />
+</p>
 
 <!--
 **nopicklesplease/nopicklesplease** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
