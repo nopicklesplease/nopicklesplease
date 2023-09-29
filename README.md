@@ -18,6 +18,7 @@ I'm a software engineer in the New York City area that's been developing web app
   <img src='https://skillicons.dev/icons?i=css' title='CSS'>
   <img src='https://skillicons.dev/icons?i=tailwind' title='Tailwind'>
   <img src='https://skillicons.dev/icons?i=materialui' title='Material UI'>
+  <img src='https://skillicons.dev/icons?i=figma' title='Figma'>
 </p>
 
 ## Additional Skills & Interests
